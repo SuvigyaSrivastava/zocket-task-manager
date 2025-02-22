@@ -96,18 +96,5 @@ Natural language task creation (NLP)
 AI-powered task prioritization
 
 
-## Contributing 🤝
-We welcome contributions to Taskwise! If you'd like to help, please fork the repository, make your changes, and submit a pull request.
-
-
-## License 📜
-This project is licensed under the MIT License.
-
-## Contact 📧
-For questions or suggestions, please reach out:
-
-## Email: isaacchimarokeanyim@gmail.com
-## whatsapp: +234 8058958751
-
 
 
