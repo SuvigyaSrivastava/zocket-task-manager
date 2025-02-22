@@ -1,0 +1,10 @@
+# Ignore client/node_modules and server/node_modules
+node_modules
+
+# Ignore environment variable files
+
+.env
+
+
+# Ignore Firebase service account key
+firebase/adminsdk.json
